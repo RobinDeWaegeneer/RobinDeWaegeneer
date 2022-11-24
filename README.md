@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Robin De Waegeneer
+- 👀 I’m interested in Java, Javascript(Node.js), Typescript, Shell, Python(Algorithms, numpy library, ...), SQL, MySQL, HTML and CSS(SCSS).
+- 🌱 I’m currently studying applied computer science.
+- 💞️ I’m looking to collaborate on fun things that make the world a better place.
+- 📫 How to reach me Robin.dewaegeneer@student.hogent.be
