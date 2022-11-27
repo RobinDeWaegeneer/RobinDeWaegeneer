@@ -3,4 +3,4 @@
 - 🌱 I’m currently studying applied computer science.
 - 💞️ I’m looking to collaborate on fun things that make the world a better place.
 - :office: I currently work with Ystra, bratat, Heimdal and Pepe Bot
-- 📫 Wanna collaborate? Reach me @ Robin.dewaegeneer@student.hogent.be
+- 📫 Wanna collaborate? Reach me @ ...Progress
