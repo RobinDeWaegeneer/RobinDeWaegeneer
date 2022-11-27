@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robin De Waegeneer
+- 👋 Hi, I’m Robin
 - 👀 I’m interested in Java, Javascript(Node.js, Discord.js), Typescript, Shell, Docker, Python(Algorithms, numpy library, ...), SQL, MySQL, HTML and CSS(SCSS).
 - 🌱 I’m currently studying applied computer science.
 - 💞️ I’m looking to collaborate on fun things that make the world a better place.
