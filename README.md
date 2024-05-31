@@ -9,7 +9,9 @@
 
 - ⚡ Fun fact **I own the Lightsaber off Yoda**
 
-<h3 align="left">Languages</h3>
+- 🧑‍💼 I currently work as a freelancer with 🍨Ystra
+
+<h3 align="left">Languages:</h3>
 
 - 🇧🇪
 
