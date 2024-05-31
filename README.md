@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Applied Computer Science**
 
+- 🏀 I play basketball and I am a basketball referee
+
 - 💬 Ask me about **Programming and Electronics**
 
 - 📫 How to reach me **robin.dewaegeneer@student.hogent.be**
