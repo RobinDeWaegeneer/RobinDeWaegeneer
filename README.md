@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Programming and Electronics**
 
-- 📫 How to reach me **robin.dewaegeneer@student.hogent.be**
+- 📫 How to reach me **unavailable currently**
 
 - ⚡ Fun fact **I own the Lightsaber off Yoda**
 
