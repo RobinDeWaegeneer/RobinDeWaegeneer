@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
 <h3 align="center">A passionate AI and Data Developer</h3>
 
-- 🌱 I’m currently learning **Applied Computer Science**
+- 🌱 I’m currently learning **Masters Artificial Intelligence Engineering**
 
 - 🏀 I play basketball and I am a basketball referee
 
 - 💬 Ask me about **Programming and Electronics**
 
-- 📫 How to reach me **unavailable currently**
-
-- ⚡ Fun fact **I own the Lightsaber off Yoda**
+- ⚡ Fun fact **I own the lightsaber from Yoda**
 
 - 🧑‍💼 I currently work as a freelancer with 🍨Ystra
 
